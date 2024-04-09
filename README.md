@@ -1,2 +1,3 @@
 # Part5IPOP
 ADJUNTO TREBALLS DELS QUE HEM SENTÓ REALITZAT
+He adjuntat 3 treballs i a part, he adjuntat el meu currículum.  Pràctica 6 NF2-NF3UF1. Cablejat estructurat d'una empresa és una pràctica en la qual hem de crear l'estructura de cablejat d'un pis de 3 plantes des de 0. És una pràctica força complexa, però a mi em va agradar. Pràctica5 NF2UF2. Conmutación y enrutamiento és una pràctica força senzilla, però a mi el tema xarxes m'agrada i en la pràctica es tracta de treballar amb routers i commutadors. Per últim, tenim GM_M7_UF1_P1_DHCP con Windows Server que és la primera vegada que treballem amb DHCP, creem un servidor des de 0, fent que funcioni i terminem fent un failover.
